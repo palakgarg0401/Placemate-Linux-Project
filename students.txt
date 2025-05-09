@@ -1,4 +1,4 @@
 1:Palak:CSE:9.70:
 2:Yudhish:CSE:9.60:
-3:Karan:ECE:9.42:Adobe
-4:Sanpreet:CSE:9.1:
+4:Sanpreet:ECE:9.1:Abode
+5:Sadhya Sharma:CSE:8.72:
